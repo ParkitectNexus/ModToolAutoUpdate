@@ -1,1 +1,1 @@
-2, https://github.com/ParkitectNexus/ModToolAutoUpdate
+3, https://github.com/ParkitectNexus/ModToolAutoUpdate
