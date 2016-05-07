@@ -10,12 +10,13 @@
 	<Special>
 		<Person>
 			<Name>Luuk Holleman</Name>
-			<Job>Founder of Parkitect Nexus</Job>
+			<Job>Founder of ParkitectNexus</Job>
 			<URL>https://parkitectnexus.com/user/luukholleman</URL>
 		</Person>
 		<Person>
 			<Name>Tim Hotze</Name>
-			<Job>Creator of parkitectnexus Client</Job>
+			<Job>Creator of ParkitectNexus Client</Job>
+			<URL>https://parkitectnexus.com/user/ikkentim</URL>
 		</Person>
 		<Person>
 			<Name>Michel</Name>
@@ -26,6 +27,11 @@
 	<Testers>
 		<Person>
 			<Name>Liam Bevin</Name>
+			<Job>Tester</Job>
+			<URL>https://parkitectnexus.com/user/Proline</URL>
+		</Person>
+		<Person>
+			<Name>Pierter Jagersma</Name>
 			<Job>Tester</Job>
 			<URL>https://parkitectnexus.com/user/Proline</URL>
 		</Person>
