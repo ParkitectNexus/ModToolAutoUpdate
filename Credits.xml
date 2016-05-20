@@ -4,36 +4,36 @@
 		<Person>
 			<Name>Henrico Pops</Name>
 			<Job>Creator/Founder</Job>
-			<URL>https://parkitectnexus.com/user/H-POPS</URL>
+			<URL>https://parkitectnexus.com/users/H-POPS</URL>
 		</Person>
 	</Creator>
 	<Special>
 		<Person>
 			<Name>Luuk Holleman</Name>
 			<Job>Founder of ParkitectNexus</Job>
-			<URL>https://parkitectnexus.com/user/luukholleman</URL>
+			<URL>https://parkitectnexus.com/users/luukholleman</URL>
 		</Person>
 		<Person>
 			<Name>Tim Hotze</Name>
 			<Job>Creator of ParkitectNexus Client</Job>
-			<URL>https://parkitectnexus.com/user/ikkentim</URL>
+			<URL>https://parkitectnexus.com/users/ikkentim</URL>
 		</Person>
 		<Person>
 			<Name>Michel</Name>
 			<Job>Founder of Custom schops</Job>
-			<URL>https://parkitectnexus.com/user/mpollend</URL>
+			<URL>https://parkitectnexus.com/users/mpollend</URL>
 		</Person>
 	</Special>
 	<Testers>
 		<Person>
 			<Name>Liam Bevin</Name>
 			<Job>Tester</Job>
-			<URL>https://parkitectnexus.com/user/Proline</URL>
+			<URL>https://parkitectnexus.com/users/Proline</URL>
 		</Person>
 		<Person>
 			<Name>Pierter Jagersma</Name>
 			<Job>Tester</Job>
-			<URL>https://parkitectnexus.com/user/Proline</URL>
+			<URL>https://parkitectnexus.com/users/casual_dutchman</URL>
 		</Person>
 	</Testers>
 </Root>
