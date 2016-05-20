@@ -23,6 +23,7 @@
 			<Job>Founder of Custom schops</Job>
 			<URL>https://parkitectnexus.com/users/mpollend</URL>
 		</Person>
+
 	</Special>
 	<Testers>
 		<Person>
@@ -34,6 +35,11 @@
 			<Name>Pierter Jagersma</Name>
 			<Job>Tester</Job>
 			<URL>https://parkitectnexus.com/users/casual_dutchman</URL>
+		</Person>
+		<Person>
+			<Name>Vincent Fournier</Name>
+			<Job>Tester</Job>
+			<URL>https://parkitectnexus.com/users/Cilicou</URL>
 		</Person>
 	</Testers>
 </Root>
